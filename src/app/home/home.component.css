@@ -1,0 +1,42 @@
+
+button{
+    margin:10px;
+}
+
+body{
+    background-color: #303030;
+    height:auto;
+    padding-bottom: 30px;
+
+}
+
+.data-table{
+    margin:30px 20px 30px 40px; 
+    width: 90%;
+}
+
+table {
+    width: 100%;
+  }
+
+.mat-header-cell{
+    margin: 50px;
+    font-size: 1.1rem;
+    font-weight: 550;
+}
+
+
+
+td{
+    width: 8%;
+}
+
+.icon-button{
+    width: auto;
+    border-radius: 50px;
+}
+
+.action{
+    padding-left:30px
+}
+
